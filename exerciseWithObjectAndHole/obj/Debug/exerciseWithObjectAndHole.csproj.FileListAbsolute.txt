@@ -1,0 +1,6 @@
+c:\users\оля\documents\visual studio 2015\Projects\exerciseWithObjectAndHole\exerciseWithObjectAndHole\bin\Debug\exerciseWithObjectAndHole.exe.config
+c:\users\оля\documents\visual studio 2015\Projects\exerciseWithObjectAndHole\exerciseWithObjectAndHole\bin\Debug\exerciseWithObjectAndHole.exe
+c:\users\оля\documents\visual studio 2015\Projects\exerciseWithObjectAndHole\exerciseWithObjectAndHole\bin\Debug\exerciseWithObjectAndHole.pdb
+c:\users\оля\documents\visual studio 2015\Projects\exerciseWithObjectAndHole\exerciseWithObjectAndHole\obj\Debug\exerciseWithObjectAndHole.csprojResolveAssemblyReference.cache
+c:\users\оля\documents\visual studio 2015\Projects\exerciseWithObjectAndHole\exerciseWithObjectAndHole\obj\Debug\exerciseWithObjectAndHole.exe
+c:\users\оля\documents\visual studio 2015\Projects\exerciseWithObjectAndHole\exerciseWithObjectAndHole\obj\Debug\exerciseWithObjectAndHole.pdb
